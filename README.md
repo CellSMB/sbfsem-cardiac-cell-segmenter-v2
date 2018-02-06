@@ -6,13 +6,14 @@ Required Applications/Packages
 MATLAB
 
 File and Folder Information
-main.m: The main script file which the user edits and executes in matlab for running the automatic segmentation algorithm.
 
-code: The folder that contains the codes for automatic segmenation of the SBF-SEM cardiac cell data.
 
-sample contains a sub-stack of 52 image slices of the raw sbfsem data, and manual segmentation for execute the program as an example.
+code.zip: it contains main.m and other m files under code folder. 
+	main.m: The main script file which the user edits and executes in matlab for running the automatic segmentation algorithm.
+	code: The folder that contains the codes for automatic segmenation of the SBF-SEM cardiac cell data.
 
-Due to file-size limitations on github, we request those interested in access to our high resolution raw and segmented data to directly contact the corresponding author, Vijay Rajagopal, at vijay.rajagopal .at. unimelb.edu.au.
+a sample image files will be found in https://cloudstor.aarnet.edu.au/plus/s/TNu7hTrGdZIRVWl
+Due to file-size limitation, we cannot upload this sample images here. We request those interested in access to our high resolution raw and segmented data to directly contact the corresponding author, Vijay Rajagopal, at vijay.rajagopal .at. unimelb.edu.au.
 
 Running the program
 Open main.m and edit the settings parameters to customise to your dataset.
